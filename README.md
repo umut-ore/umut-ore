@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umut-ore
 - 👀 I’m interested in PHP, JS, Linux
-- 🌱 I’m currently learning Vue.JS and front end frameworks
-- 📫 Linkedin @umut-ore 
+- 🌱 I’m currently learning React.JS and WebRTC Technologies
+- 📫 Linkedin @umut-ore
 - 📫 Instagram @umut.ore
 - 📫 https://umutore.com
 
